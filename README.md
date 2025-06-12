@@ -32,7 +32,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/MidExamTamar.git
+git clone https://github.com/tak862/MidExamTamar.git
 Open the project in Android Studio.
 
 Make sure the app has internet permission in AndroidManifest.xml:
