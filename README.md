@@ -30,7 +30,8 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/tak862/FinalExamT.git
+git clone https://github.com/tak862/MidExamTamar
+.git
 Open the project in Android Studio.
 
 Ensure the app has internet permission in AndroidManifest.xml:
